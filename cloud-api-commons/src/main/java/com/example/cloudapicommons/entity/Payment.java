@@ -1,4 +1,4 @@
-package com.example.cloudproviderpayment8001.entity;
+package com.example.cloudapicommons.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
